@@ -99,7 +99,7 @@ body {
   color: #28a745;
 }
 
-.answer-btn.correct {
+.answer-btn.incorrect {
   background-color: #fff0f0;
   border-color: #ffbdbd;
   color: #dc3545;
